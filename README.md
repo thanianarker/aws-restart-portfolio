@@ -3,5 +3,7 @@ Projects and labs from the AWS re/Start program, documenting my learning journey
 Labs: 
 - Compute
 - Networking
+  
 Cerftification & Badges:
+
 Projects:
