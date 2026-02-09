@@ -1,6 +1,6 @@
 # Static Website Project
 
-# AWS Hybrid Cloud Solution for a Café ☁️☕
+# AWS Hybrid Cloud Solution for After Hours Café ☁️☕
 
 ## 📌 Project Overview
 This project showcases a **hybrid cloud solution built using AWS services** for a small café that hasn’t fully moved to the cloud yet.
