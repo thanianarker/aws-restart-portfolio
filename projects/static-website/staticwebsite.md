@@ -10,8 +10,7 @@ This section outlines the steps I followed to deploy a static website using **Am
 - Created a new bucket with a **globally unique name**
 - Selected the appropriate AWS region
 
-📸 step 1
-
+![Static Website](../static-website/step%202.jpeg)
 ---
 
 ### 2️⃣ Configure Bucket Settings
@@ -22,15 +21,15 @@ This section outlines the steps I followed to deploy a static website using **Am
   - Index document: `index.html`
   - Error document: `error.html` (optional)
 
-📸 *Screenshot: Static website hosting settings*
-
+![Static Website](../static-website/step%205.jpeg)
 ---
 
 ### 3️⃣ Upload Website Files
 - Uploaded all static files (HTML, CSS, images)
 - Verified that files were correctly uploaded and visible in the bucket
 
-📸 *Screenshot: Uploaded website files in S3*
+![Static Website](../static-website/step%203.jpeg)
+
 
 ---
 
@@ -38,7 +37,7 @@ This section outlines the steps I followed to deploy a static website using **Am
 - Added a bucket policy to allow public read access to objects
 - Ensured the policy referenced the correct bucket name
 
-📸 *Screenshot: Bucket policy configuration*
+![Static Website](../static-website/step%204.jpeg)
 
 ---
 
@@ -46,7 +45,7 @@ This section outlines the steps I followed to deploy a static website using **Am
 - Opened the **S3 static website endpoint URL**
 - Confirmed that the website loaded successfully in the browser
 
-📸 *Screenshot: Live static website in browser*
+![Static Website](../static-website/Screenshot%202026-02-06%20at%2008.08.25.png)
 
 ---
 
@@ -55,9 +54,12 @@ This section outlines the steps I followed to deploy a static website using **Am
 - Re-uploaded files when updates were needed
 - Confirmed changes reflected immediately via the S3 endpoint
 
-📸 *Screenshot: Updated website content*
+![Static Website](../static-website/Screenshot%202026-02-06%20at%2008.08.30.png)
 
 ---
 
 ## ✅ Outcome
 The static website was successfully deployed and made publicly accessible using **Amazon S3**, demonstrating a simple, cost-effective method for hosting static content on AWS.
+
+
+[def]: ../static-website/step%201.jpeg
