@@ -10,4 +10,5 @@ This journey helped me build foundational cloud skills, including:
 - Deployment and monitoring practices  
 
 ![AWS Cloud Quest Badge](badge.png)
+
 ![AWS Cloud Quest Certificate](CloudQuest.pdf)
