@@ -11,4 +11,3 @@ This journey helped me build foundational cloud skills, including:
 
 ![AWS Cloud Quest Badge](badge.png)
 
-![AWS Cloud Quest Certificate](CloudQuest.pdf)
