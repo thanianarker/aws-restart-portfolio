@@ -10,7 +10,7 @@ Each project highlights practical cloud solutions and showcases my skills in arc
 **Project:** [3D E-Commerce Architecture](./3d-ecommerce-architecture/design.md)
 
 **Overview:**  
-Designed a cloud architecture for a next-generation 3D e-commerce platform, supporting millions of global users. The architecture emphasizes **high availability, scalability, security, performance, and cost efficiency**.
+Designed a cloud architecture for a next-generation 3D e-commerce platform, supporting millions of global users. The architecture emphasizes high availability, scalability, security, performance, and cost efficiency.
 
 **Key AWS Services Used:**  
 - Amazon S3 (3D asset storage)  
@@ -31,7 +31,7 @@ Designed a cloud architecture for a next-generation 3D e-commerce platform, supp
 **Project:** [After Hours Café Static Website](./afterhours-cafe-static-website/README.md)
 
 **Overview:**  
-Created a **static website hosted on Amazon S3** for After Hours Café, demonstrating a simple cloud solution for small businesses to improve online presence. The project showcases **S3 static website hosting, scalability, and cost-efficient cloud deployment**.
+Created a **static website hosted on Amazon S3** for After Hours Café, demonstrating a simple cloud solution for small businesses to improve online presence. The project showcases S3 static website hosting, scalability, and cost-efficient cloud deployment.
 
 **Key AWS Services Used:**  
 - Amazon S3 (Static website hosting)  
