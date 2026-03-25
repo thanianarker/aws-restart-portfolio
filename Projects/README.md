@@ -1,7 +1,7 @@
 # AWS re/Start Portfolio Projects
 
 This folder contains my AWS re/Start portfolio projects demonstrating hands-on experience with AWS services.  
-Each project highlights practical cloud solutions and showcases my skills in architecture design, cloud deployment, and documentation.
+Each project highlights practical cloud solutions and showcases my skills in architecture design, cloud deployment, AI integration, and documentation.
 
 ---
 
@@ -45,4 +45,27 @@ Created a **static website hosted on Amazon S3** for After Hours Café, demonstr
 
 ---
 
-✅ Both projects demonstrate practical use of AWS services and highlight my ability to **design, implement, and document cloud solutions**.
+## 3️⃣ S3ndHelp Chatbot (Amazon Lex)
+
+**Project:** [S3ndHelp Chatbot](./s3ndhelp-lex-chatbot-creation/README.md)
+
+**Overview:**  
+Developed **S3ndHelp**, an interactive chatbot using Amazon Lex that assists users in learning about Amazon S3. The chatbot includes both informational responses and an engaging quiz that tests user knowledge through conversational interaction.
+
+**Key AWS Services Used:**  
+- Amazon Lex (Chatbot development and NLP)  
+
+**Key Features:**  
+- Intent-based chatbot responses  
+- Natural language interaction using utterances  
+- Interactive quiz with multiple-choice questions  
+- Branching logic for correct and incorrect answers  
+- User-friendly conversational flow  
+
+**Files Included:**  
+- `README.md` – Full project explanation, chatbot logic, and implementation details  
+- `visuals/` – Chatbot interface and interaction flow  
+
+---
+
+✅ These projects demonstrate my ability to **design, implement, and document cloud-based and AI-driven solutions** using AWS services.
